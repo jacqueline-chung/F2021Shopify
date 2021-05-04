@@ -1,2 +1,1 @@
-# F2021Shopify
-My Data Science Challenge Answer
+Fall 2021 Data Science Intern Challenge
